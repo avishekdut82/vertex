@@ -1,4 +1,4 @@
-name: hello-world
+name: Welcome to vertex
 on: push
 jobs:
   my-job:
